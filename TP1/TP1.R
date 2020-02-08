@@ -11,3 +11,7 @@ plot(xn, xnl, main = "Graphe of pairs adjacents", ylab = NA, xlab = NA) # graphe
 acf(x, main = "autocorrelation function", ylab = NA)
 
 # reproduire 2 graphes
+
+
+
+
